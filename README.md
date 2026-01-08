@@ -6,7 +6,9 @@ Claude skills for capturing specific writing voices and styles. These skills are
 
 These skills distill the voice, style, and structural patterns from exemplary writing to make technically complex or professional content more approachable and human. They capture **how** to write, not **what** to write.
 
-Think of them as voice cloning for writing style: the patterns, rhythms, and techniques that make writing feel direct, warm, and intelligent—without dictating subject matter.
+Think of them as voice cloning for writing style: the patterns, rhythms, and techniques that make writing feel direct, warm, honest, and intelligent—without dictating subject matter.
+
+**See it in action:** Check out [test-skill-usage.md](test-skill-usage.md) for before/after examples showing how both skills transform generic writing into clear, human communication.
 
 ## Skills in This Repo
 
@@ -26,12 +28,13 @@ Use when writing about any technical topic where you want to:
 ### brand-voice
 **Voice & style for brand and corporate communications**
 
-Captures the principles from Aesop and Intuit's writing guides: clear, respectful, considered writing. This is about word choice, tone, and philosophy—not about skincare or financial software.
+Combines the best of three worlds: Aesop's respectful formality and word discipline, Intuit's conversational clarity, and The Composable Codex's honest directness. This is about word choice, tone, and philosophy—not about skincare or financial software.
 
 Use when writing any brand or customer-facing content where you want to:
 - Sound human, not like a marketing robot
 - Be clear and precise without being cold
 - Show respect for your reader's time and intelligence
+- Be honest about tradeoffs instead of claiming perfection
 
 **Location:** `brand-voice/`  
 **Packaged file:** `brand-voice.skill`

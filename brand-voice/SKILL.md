@@ -19,6 +19,18 @@ Transform brand and corporate writing into clear, respectful communication that 
 
 **Be clear and precise.** Customers look to you for answers. Be as definitive and precise as you can. Use simple terms consistently.
 
+## Voice Foundations
+
+These principles from long-form technical writing apply equally to brand communications:
+
+**Concrete before abstract.** Lead with the specific, then explain the concept. Show what the product does before naming what category it belongs to.
+
+**Tension acknowledged.** If tradeoffs exist, name them honestly. "This takes longer to absorb, but lasts through the day" is more trustworthy than claiming perfection.
+
+**Reader as peer.** Assume intelligence. Never condescend. Never over-explain. Respect their time and attention.
+
+**Say what you mean.** If you wouldn't say it to someone's face, don't write it. If it sounds like a template, rewrite it.
+
 ## Word Discipline
 
 ### Precision First
@@ -165,7 +177,14 @@ Check:
 - "Best-in-class," "robust," "scalable" (unless literally discussing system scaling)
 - "Seamless," "frictionless," "effortless"
 - "Game-changer," "revolutionary"
-- "Synergy," "align," "circle back"
+- "Synergy," "align," "circle back," "leverage," "utilize"
+
+### Passive Voice Hiding Agency
+
+When appropriate, name who does what:
+- "Mistakes were made" → "We reformulated it"
+- "It was decided" → "Our team chose"
+- "This product is loved" → "Customers return for this product"
 
 ### Throat-Clearing
 
@@ -173,6 +192,7 @@ Check:
 - "It's worth noting that..."
 - "Without further ado"
 - "At the end of the day"
+- "Let's dive in"
 
 ### Exclamation Points
 
@@ -184,6 +204,12 @@ If you ask a rhetorical question, answer it plainly or don't ask it at all.
 
 **Weak:** "What does this mean for you? Everything!"  
 **Better:** "This changes how you approach [specific thing]."
+
+### Hyperbole Without Evidence
+
+- "Revolutionary," "unprecedented," "game-changing" (unless you can prove it)
+- Inflated stakes that don't match the actual claim
+- Superlatives without specifics
 
 ## Formatting Guidance
 
@@ -199,7 +225,7 @@ Keep them digestible. One main idea per paragraph.
 
 Use to guide the reader through longer documents. Make them descriptive, not clever.
 
-## The Aesop Standard
+## The Human Test
 
 Before finalizing, ask:
 
@@ -208,6 +234,8 @@ Before finalizing, ask:
 3. **Is it respectful?** Does it treat the reader as intelligent?
 4. **Is it considered?** Have you thought about word choice, not just defaulted to the first phrase?
 5. **Does it sound human?** Would a real person say this, or does it sound like a corporate template?
+6. **Is it honest?** If there's a tradeoff or limitation, have you acknowledged it?
+7. **Would you say it to their face?** If not, rewrite it.
 
 ---
 
@@ -234,4 +262,10 @@ This skill is inspired by and adapted from:
 - Natural sentence construction (ending with prepositions, contractions, simple verb tenses)
 - Global thinking and inclusive language
 
-This skill adapts these principles for broader brand and corporate writing contexts, combining Aesop's respectful formality with Intuit's conversational clarity.
+**Voice foundations from The Composable Codex** by Alison Presmanes Hill
+- Concrete before abstract thinking
+- Honest acknowledgment of tradeoffs and tensions
+- Reader as peer (assume intelligence, never condescend)
+- Directness and warmth over corporate distance
+
+This skill adapts these principles for brand and corporate writing contexts, combining Aesop's respectful formality, Intuit's conversational clarity, and the honest directness of technical writing that respects the reader's intelligence.
