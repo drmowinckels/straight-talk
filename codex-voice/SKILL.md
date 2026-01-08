@@ -1,11 +1,13 @@
 ---
 name: codex-voice
-description: "Revise long-form professional content into direct, warm writing that respects the reader's intelligence. Use when editing, revising, or rewriting blog posts, documentation, technical guides, or thought leadership. Also use when drafting new long-form content. This skill catches AI-slop patterns and transforms them into writing that sounds human. Philosophy: say what you mean, mean what you say, make people feel smart for reading it."
+description: "Writing voice and style patterns for long-form technical content. This skill is content-agnostic—it teaches how to write (structure, voice, patterns), not what to write about. Distilled from The Composable Codex by Alison Presmanes Hill. Use for any technical writing where you want to make complexity accessible while respecting the reader's intelligence. Philosophy: say what you mean, mean what you say, make people feel smart for reading it."
 ---
 
 # codex-voice
 
-Revise long-form professional content into writing that's direct, warm, and treats the reader as an intelligent peer.
+A content-agnostic writing voice skill that captures the style patterns from The Composable Codex. Use this to write about **any** technical topic with directness, warmth, and respect for the reader's intelligence.
+
+**This skill teaches HOW to write, not WHAT to write about.** You bring the subject matter expertise; this skill brings the voice, structure, and patterns that make technical content approachable and human.
 
 ## Anti-Tells (Red Flags to Eliminate)
 
@@ -112,9 +114,11 @@ See [references/patterns.md](references/patterns.md) for specific syntactic patt
 
 ## Credits and Inspiration
 
-This skill distills writing principles and patterns from:
-- **The Composable Codex** by Alison Presmanes Hill (https://voltrondata.com/codex) - A technical guide on composable data systems that demonstrates direct, warm writing for technical audiences
+This skill distills the **voice and style patterns** (not the content) from:
+- **The Composable Codex** by Alison Presmanes Hill (https://voltrondata.com/codex) - The source material is about composable data systems, but this skill captures the *writing techniques* that made complex technical concepts accessible and engaging
 - Anti-patterns identified through analysis of AI-generated content and corporate communications
+
+**Important:** This skill does not teach you about data systems, composability, or any specific technical domain. It teaches you how to write about *any* technical topic using the voice, structural patterns, and techniques demonstrated in The Composable Codex.
 
 The philosophy "say what you mean, mean what you say, make people feel smart for reading it" guides this approach to technical writing.
 

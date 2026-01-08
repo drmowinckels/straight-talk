@@ -1,26 +1,37 @@
 # straight-talk
 
-A Claude skill for revising long-form professional content into direct, warm writing that respects the reader's intelligence.
+Claude skills for capturing specific writing voices and styles. These skills are **content-agnostic**—they teach Claude how to write in a particular voice, not what to write about.
 
-## What This Skill Does
+## What These Skills Do
 
-Transforms AI-slop and corporate speak into writing that sounds human—specifically, writing in Alison's voice. Inspired by Dolly Parton: say what you mean, mean what you say, make people feel smart for reading it.
+These skills distill the voice, style, and structural patterns from exemplary writing to make technically complex or professional content more approachable and human. They capture **how** to write, not **what** to write.
 
-Use this skill when:
-- Editing or revising blog posts, documentation, technical guides, or thought leadership
-- Drafting new long-form content
-- Catching and eliminating AI writing patterns
+Think of them as voice cloning for writing style: the patterns, rhythms, and techniques that make writing feel direct, warm, and intelligent—without dictating subject matter.
 
 ## Skills in This Repo
 
 ### codex-voice
-Writing style skill for long-form technical and professional content. Based on The Composable Codex writing style—direct, warm writing that respects the reader's intelligence.
+**Voice & style for long-form technical writing**
+
+Captures the writing patterns from The Composable Codex: how to make technically complex material approachable while respecting the reader's intelligence. This is about sentence structure, opening moves, transition patterns, and voice markers—not about data systems or composability.
+
+Use when writing about any technical topic where you want to:
+- Make complexity accessible without dumbing it down
+- Write with warmth and personality, not corporate blandness
+- Trust your reader to keep up while still being clear
 
 **Location:** `codex-voice/`  
 **Packaged file:** `codex-voice.skill`
 
 ### brand-voice
-Brand and corporate communications skill. Clear, respectful, considered writing for marketing copy, product descriptions, and customer-facing content. Inspired by Aesop's philosophy.
+**Voice & style for brand and corporate communications**
+
+Captures the principles from Aesop and Intuit's writing guides: clear, respectful, considered writing. This is about word choice, tone, and philosophy—not about skincare or financial software.
+
+Use when writing any brand or customer-facing content where you want to:
+- Sound human, not like a marketing robot
+- Be clear and precise without being cold
+- Show respect for your reader's time and intelligence
 
 **Location:** `brand-voice/`  
 **Packaged file:** `brand-voice.skill`
@@ -30,7 +41,9 @@ Brand and corporate communications skill. Clear, respectful, considered writing 
 To use a skill with Claude:
 1. Download the `.skill` file
 2. Import it into your Claude workspace
-3. The skill will automatically trigger when you're working on relevant content
+3. The skill will guide Claude's writing style for your content
+
+**Important:** These skills teach Claude *how* to write (voice, structure, patterns), not *what* to write about. You bring the subject matter and expertise; the skill brings the voice and style.
 
 ## Development
 
