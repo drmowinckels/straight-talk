@@ -13,7 +13,7 @@
       "name": "writing-voices",
       "description": "Collection of writing voice skills for different contexts: long-form technical content, brand communications, and social media",
       "source": "./",
-      "strict": false,
+      "strict": true,
       "skills": [
         "./codex-voice",
         "./brand-voice",
