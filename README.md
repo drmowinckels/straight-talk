@@ -82,7 +82,7 @@ Use when writing social media content where you want to:
 Add this repository as a plugin marketplace:
 
 ```bash
-/plugin marketplace add apreshill/straight-talk
+/plugin marketplace add drmowinckels/straight-talk
 ```
 
 Then install the writing-voices plugin:
